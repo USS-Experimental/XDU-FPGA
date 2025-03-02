@@ -1,0 +1,21 @@
+# Ignore all files and folders
+*
+*/
+
+# Include .gitignore
+!.gitignore
+
+# Include readme.md
+!readme.md
+
+# Include Course lectures
+!/lectures/
+!/lectures/** 
+
+# Include Course assignments
+!/assignments/
+!/assignments/** 
+
+# Include Course labs
+!/labs
+!/labs/**
